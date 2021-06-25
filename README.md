@@ -5,6 +5,7 @@ Task
 Background: Arsenal is a professional football club based in London that plays in the Englishe Premier League.
 
 The dataset collected is based on Arsenal game results after some matches played up to December 18th each year from 1992/93 to 2020/21. I am interested in comparing games won, lost and drawn against the total matches played. Based on the output of the visualization, I will give my prediction of how the remaining season is going to look like for the Gunners.
+![image](https://user-images.githubusercontent.com/85532483/123494561-1d39a700-d5d5-11eb-969a-0691f85163d2.png)
 
 Conclusion
 ==========
